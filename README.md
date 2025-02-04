@@ -34,3 +34,5 @@ Inovação: A combinação de IA generativa para criação de áudio e um roteir
 
 ## 💭 Reflexão
 Criar algo "natty" (natural e autêntico) com IA foi um desafio fascinante. Por um lado, a tecnologia permite gerar vozes e conteúdos incrivelmente realistas, mas por outro, é essencial manter a autenticidade e a conexão humana. O equilíbrio entre automação e toque pessoal foi fundamental para garantir que o podcast soasse natural e engajador. A IA é uma ferramenta poderosa, mas no fim das contas, quem dá vida ao projeto é a criatividade e a intenção por trás dele.
+
+🎧 Ouça o podcast no spotify: https://open.spotify.com/episode/1TP9JL7c6BcjoHiFVZYck4?si=hYG12-eFTNKUvqIQTwHR6w&nd=1&dlsi=8a82268bbc1a4e03
